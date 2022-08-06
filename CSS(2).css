@@ -1,0 +1,23 @@
+body{display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.first{
+background-color: yellow;
+display:flex; 
+justify-content:center;
+align-items: center;
+flex-direction: column;
+border: 5px solid rgb(205, 237, 100);
+width: fit-content;
+height: fit-content;}
+
+.second{
+    background-color: yellow;
+    display:flex; 
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    border: 5px solid rgb(205, 237, 100);
+    width: fit-content;
+    height: fit-content;}
